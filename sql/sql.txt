@@ -1,0 +1,14 @@
+//catagories
+
+cat_name->nullable()
+
+
+//post
+
+id
+title->nullable()
+description->nullable()
+photo
+cat_id->unsigned()
+user_id->unsigned()
+comment_id->unsigned()->nullable()
