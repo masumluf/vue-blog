@@ -21,7 +21,7 @@
     },
     "dependencies": {
         "admin-lte": "^3.0.0-rc.1",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "jquery": "^3.2",
         "sweetalert2": "^8.18.0",
         "tslint": "^5.20.0",
